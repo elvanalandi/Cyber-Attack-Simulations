@@ -41,5 +41,5 @@ DNS spoofing is an attack where an attacker tricks a system into storing fake DN
 10. When I used the DNS Lookup feature in Firefox and entered **google.com** as the domain. It revealed the attacker’s IP address.  
    ![DNS Lookup](images/dns-lookup.png)  
 
-The data captured by Wireshark will be analysed using Splunk, as detailed in the <a href="../Home-Cybersecurity-Lab/Splunk
+The data captured by Wireshark will be analysed using Splunk, as detailed in the <a href="../../Home-Cybersecurity-Lab/Splunk
 /DNS Spoofing Analysis">Splunk DNS Analysis</a>.  
